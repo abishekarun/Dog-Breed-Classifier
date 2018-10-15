@@ -29,4 +29,4 @@ cd dog-project
 
 4. Download the [InceptionV3 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
 
-You can find the Jupyter notebook corrosponding to dog classifier [here](https://nbviewer.jupyter.org/github/abishekarun/Dog-Breed-Classifier/blob/master/dog_app.ipynb
+You can find the Jupyter notebook corrosponding to dog classifier [here](https://nbviewer.jupyter.org/github/abishekarun/Dog-Breed-Classifier/blob/master/dog_app.ipynb)
